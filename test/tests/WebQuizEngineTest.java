@@ -2,7 +2,7 @@ package tests;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.nklymok.quizngin.WebQuizEngine;
+import com.nklymok.engine.WebQuizEngine;
 import org.hyperskill.hstest.dynamic.input.DynamicTesting;
 import org.hyperskill.hstest.dynamic.input.DynamicTestingMethod;
 import org.hyperskill.hstest.exception.outcomes.UnexpectedError;

@@ -1,16 +1,15 @@
 package com.nklymok.quizngin.controller;
 
 import com.nklymok.quizngin.model.*;
-import com.nklymok.quizngin.repository.QuizRepository;
-import com.nklymok.quizngin.repository.UserRepository;
-import com.nklymok.quizngin.service.QuizService;
-import engine.model.*;
-import com.nklymok.quizngin.repository.CompletionRepository;
-import com.nklymok.quizngin.service.CompletionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
+import com.nklymok.quizngin.repository.CompletionRepository;
+import com.nklymok.quizngin.repository.QuizRepository;
+import com.nklymok.quizngin.repository.UserRepository;
+import com.nklymok.quizngin.service.CompletionService;
+import com.nklymok.quizngin.service.QuizService;
+import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 import java.security.Principal;

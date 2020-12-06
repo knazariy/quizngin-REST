@@ -10,5 +10,5 @@
 - See the quizzes with paging
 - See the record of your successful quiz solutions
 
-Front-end is to be implemented soon.
+Front-end is to be implemented soon..
 

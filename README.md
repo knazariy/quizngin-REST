@@ -1,5 +1,3 @@
-
-
 # quizngin-REST
 ### Web Quiz Engine REST API. Created with Spring Framework. Using H2 Database.
 <hr/>
@@ -13,4 +11,9 @@
 - See the record of your successful quiz solutions
 
 Front-end is to be implemented soon..
+
+## Usage
+
+Play with it on Heroku!
+Link: https://quizngin.herokuapp.com/
 
